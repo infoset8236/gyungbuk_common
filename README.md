@@ -1,4 +1,4 @@
-# 경북 ict 이용 공통 퍼블리싱 소스
+# 경북 ict 공통 퍼블리싱 소스
 
 ## 작업자
 **양현진 사원** : yanghyunjin@infoset.co.kr <br>
