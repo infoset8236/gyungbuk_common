@@ -10,35 +10,35 @@
   }
 
   .wrapper {
-    margin-top: 900px;
     display: flex;
-    flex-direction: column;
     align-items: center;
+    flex-direction: column;
     justify-content: center;
+    margin-top: 900px;
   }
 
   .title {
-    color:#FFFFFF;
-    text-align: center;
     font-family: "Pretendard", sans-serif;
     font-size: 140px;
-    font-style: normal;
     font-weight: 600;
+    font-style: normal;
     line-height: 140%;
+    text-align: center;
     letter-spacing: -2.8px;
+    color:#FFFFFF;
   }
 
   .sub_title {
-    color:#FFFFFF;
-    text-align: center;
     font-family: "Pretendard", sans-serif;
     font-size: 80px;
-    font-style: normal;
     font-weight: 500;
+    font-style: normal;
     line-height: 140%;
-    letter-spacing: -1.6px;
     margin-top: 40px;
     margin-bottom: 200px;
+    text-align: center;
+    letter-spacing: -1.6px;
+    color:#FFFFFF;
   }
 
   .wrapper img {
@@ -100,35 +100,35 @@
   }
 
   .wrapper {
-    margin-top: 450px;
     display: flex;
-    flex-direction: column;
     align-items: center;
+    flex-direction: column;
     justify-content: center;
+    margin-top: 450px;
   }
 
   .title {
-    color: #FFFFFF;
-    text-align: center;
     font-family: "Pretendard", sans-serif;
     font-size: 70px;
-    font-style: normal;
     font-weight: 600;
+    font-style: normal;
     line-height: 140%;
+    text-align: center;
     letter-spacing: -1.4px;
+    color: #FFFFFF;
   }
 
   .sub_title {
-    color: #FFFFFF;
-    text-align: center;
     font-family: "Pretendard", sans-serif;
     font-size: 40px;
-    font-style: normal;
     font-weight: 500;
+    font-style: normal;
     line-height: 140%;
-    letter-spacing: -0.8px;
     margin-top: 20px;
     margin-bottom: 100px;
+    text-align: center;
+    letter-spacing: -0.8px;
+    color: #FFFFFF;
   }
 
   .wrapper img {
@@ -183,42 +183,42 @@
     display: flex;
     align-items: center;
     flex-direction: column;
-    height: 100vh;
     justify-content: center;
+    height: 100vh;
     background: url('../img/login.svg') center center no-repeat;
     background-size: cover;
   }
 
   .wrapper {
-    margin-left: 300px;
     display: flex;
-    flex-direction: column;
     align-items: center;
+    flex-direction: column;
     justify-content: center;
+    margin-left: 300px;
   }
 
   .title {
-    color:#FFFFFF;
-    text-align: center;
     font-family: "Pretendard", sans-serif;
     font-size: 140px;
-    font-style: normal;
     font-weight: 600;
+    font-style: normal;
     line-height: 140%;
+    text-align: center;
     letter-spacing: -2.8px;
+    color:#FFFFFF;
   }
 
   .sub_title {
-    color:#FFFFFF;
-    text-align: center;
     font-family: "Pretendard", sans-serif;
     font-size: 80px;
-    font-style: normal;
     font-weight: 500;
+    font-style: normal;
     line-height: 140%;
-    letter-spacing: -1.6px;
     margin-top: 40px;
     margin-bottom: 200px;
+    text-align: center;
+    letter-spacing: -1.6px;
+    color:#FFFFFF;
   }
 
   .wrapper img {
@@ -227,12 +227,12 @@
   }
 
   .navigation {
-    flex-direction: column;
     position: fixed;
-    left: 0;
     top: 0;
+    left: 0;
     display: flex;
     align-items: center;
+    flex-direction: column;
     justify-content: space-between;
     width: 320px;
     height: 2160px;
@@ -276,42 +276,42 @@
     display: flex;
     align-items: center;
     flex-direction: column;
-    height: 100vh;
     justify-content: center;
+    height: 100vh;
     background: url('../img/login.svg') center center no-repeat;
     background-size: cover;
   }
 
   .wrapper {
-    margin-left: 150px;
     display: flex;
-    flex-direction: column;
     align-items: center;
+    flex-direction: column;
     justify-content: center;
+    margin-left: 150px;
   }
 
   .title {
-    color: #FFFFFF;
-    text-align: center;
     font-family: "Pretendard", sans-serif;
     font-size: 70px;
-    font-style: normal;
     font-weight: 600;
+    font-style: normal;
     line-height: 140%;
+    text-align: center;
     letter-spacing: -1.4px;
+    color: #FFFFFF;
   }
 
   .sub_title {
-    color: #FFFFFF;
-    text-align: center;
     font-family: "Pretendard", sans-serif;
     font-size: 40px;
-    font-style: normal;
     font-weight: 500;
+    font-style: normal;
     line-height: 140%;
-    letter-spacing: -0.8px;
     margin-top: 20px;
     margin-bottom: 100px;
+    text-align: center;
+    letter-spacing: -0.8px;
+    color: #FFFFFF;
   }
 
   .wrapper img {
@@ -320,12 +320,12 @@
   }
 
   .navigation {
-    flex-direction: column;
     position: fixed;
-    left: 0;
     top: 0;
+    left: 0;
     display: flex;
     align-items: center;
+    flex-direction: column;
     justify-content: space-between;
     width: 160px;
     height: 1080px;
