@@ -15,7 +15,7 @@
     align-items: center;
     flex-direction: column;
     height: 100vh;
-    background: url('../img/background.svg') center center no-repeat;
+    background: url('../img/login.svg') center center no-repeat;
     background-size: cover;
   }
 
