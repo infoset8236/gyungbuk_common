@@ -9,16 +9,6 @@
     background-size: cover;
   }
 
-  .container {
-    position: relative;
-    display: flex;
-    align-items: center;
-    flex-direction: column;
-    height: 100vh;
-    background: url('../img/login.svg') center center no-repeat;
-    background-size: cover;
-  }
-
   .popup_overlay {
     position: fixed;
     z-index: 999;
@@ -156,7 +146,8 @@
     font-weight: 500;
     font-style: normal;
     line-height: normal;
-    width: 100%;
+    width: 1680px;
+    height: 270px;
     padding: 73px 73px 73px 230px;
     letter-spacing: -1.36px;
     color: #191F28;
@@ -181,8 +172,8 @@
 
   .label img {
     position: absolute;
-    top: 65px;
-    left: 65px;
+    top: 90px;
+    left: 90px;
     width: 96px;
     height: 96px;
   }
@@ -427,7 +418,8 @@
     font-weight: 500;
     font-style: normal;
     line-height: normal;
-    width: 100%;
+    width: 840px;
+    height: 135px;
     padding: 36.5px 36.5px 36.5px 115px;
     letter-spacing: -0.68px;
     color: #191F28;
@@ -452,8 +444,8 @@
 
   .label img {
     position: absolute;
-    top: 32.5px;
-    left: 32.5px;
+    top: 45px;
+    left: 45px;
     width: 48px;
     height: 48px;
   }
@@ -549,6 +541,16 @@
 }
 
 @media (width: 3840px) {
+  .container {
+    position: relative;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+    background: url('../img/background_h.svg') center center no-repeat;
+    background-size: cover;
+  }
+
   .popup_overlay {
     position: fixed;
     z-index: 999;
@@ -824,6 +826,16 @@
 }
 
 @media (width: 1920px) {
+  .container {
+    position: relative;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+    background: url('../img/background_h.svg') center center no-repeat;
+    background-size: cover;
+  }
+
   .popup_overlay {
     position: fixed;
     z-index: 999;
