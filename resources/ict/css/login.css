@@ -541,16 +541,6 @@
 }
 
 @media (width: 3840px) {
-  .container {
-    position: relative;
-    display: flex;
-    align-items: center;
-    flex-direction: column;
-    height: 100vh;
-    background: url('../img/background_h.svg') center center no-repeat;
-    background-size: cover;
-  }
-
   .popup_overlay {
     position: fixed;
     z-index: 999;
@@ -650,7 +640,7 @@
     flex-direction: column;
     justify-content: center;
     height: 100vh;
-    background: url('../img/login.svg') center center no-repeat;
+    background: url('../img/background_h.svg') center center no-repeat;
     background-size: cover;
   }
 
@@ -826,16 +816,6 @@
 }
 
 @media (width: 1920px) {
-  .container {
-    position: relative;
-    display: flex;
-    align-items: center;
-    flex-direction: column;
-    height: 100vh;
-    background: url('../img/background_h.svg') center center no-repeat;
-    background-size: cover;
-  }
-
   .popup_overlay {
     position: fixed;
     z-index: 999;
@@ -935,7 +915,7 @@
     flex-direction: column;
     justify-content: center;
     height: 100vh;
-    background: url('../img/login.svg') center center no-repeat;
+    background: url('../img/background_h.svg') center center no-repeat;
     background-size: cover;
   }
 
