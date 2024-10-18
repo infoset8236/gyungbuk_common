@@ -1,7 +1,6 @@
-# 경북 ict 공통 퍼블리싱 소스
+# 경북 ict 로그인, 공통 모달, rfid 로그인 퍼블리싱 소스 (가로, 세로  포함)
 
 ## 작업자
-**양현진 사원** : yanghyunjin@infoset.co.kr <br>
 **강윤경 사원** : kangyoonkyung@infoset.co.kr <br>
 
 ## 브랜치
