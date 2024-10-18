@@ -35,7 +35,7 @@
     font-style: normal;
     line-height: 140%;
     margin-top: 40px;
-    margin-bottom: 200px;
+    margin-bottom: 300px;
     text-align: center;
     letter-spacing: -1.6px;
     color:#FFFFFF;
@@ -125,7 +125,7 @@
     font-style: normal;
     line-height: 140%;
     margin-top: 20px;
-    margin-bottom: 100px;
+    margin-bottom: 150px;
     text-align: center;
     letter-spacing: -0.8px;
     color: #FFFFFF;
@@ -185,7 +185,7 @@
     flex-direction: column;
     justify-content: center;
     height: 100vh;
-    background: url('../img/login.svg') center center no-repeat;
+    background: url('../img/background_h.svg') center center no-repeat;
     background-size: cover;
   }
 
@@ -278,7 +278,7 @@
     flex-direction: column;
     justify-content: center;
     height: 100vh;
-    background: url('../img/login.svg') center center no-repeat;
+    background: url('../img/background_h.svg') center center no-repeat;
     background-size: cover;
   }
 
